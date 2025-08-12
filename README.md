@@ -7,8 +7,8 @@ Includes:
 > Example queries for reports like top bookings, event details, and service usage.
 
 How to use:
-> Import the .sql file into MySQL Workbench/MariaDB
-> Run the script
+> Import the .sql file into MySQL Workbench/MariaDB ->
+> Run the script ->
 > Start querying :)
 
 Extra Note:
