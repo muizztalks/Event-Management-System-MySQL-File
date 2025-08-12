@@ -3,8 +3,8 @@ A SQL database project to manage events, clients, venues, services, staff, and b
 
 Includes:
 > Structured tables with relationships (clients, venues, events, services, staff, bookings).
-> Sample data for quick testing.
-> Example queries for reports like top bookings, event details, and service usage.
+> Sample data for quick testing added.
+> Example queries for reports like top bookings, event details, and service usage added.
 
 How to use:
 > Import the .sql file into MySQL Workbench/MariaDB ->
@@ -12,7 +12,7 @@ How to use:
 > Start querying :)
 
 Extra Note:
-> I have uploaded; ERD Diagram(.png file), report(.pdf file), powerpoint presentation (.pptx file) in the same repository, just in case it may help out someone.
+> I have uploaded; ERD Diagram(.png file), report(.pdf file), powerpoint presentation (.pptx file) in the same repository, it may be useful.
 > This was my 4th semester "Database Theory" Course project, that's why there is an ERD Diagram, Report, and a PowerPoint Presentation attached.
 
 Contact:
