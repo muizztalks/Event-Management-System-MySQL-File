@@ -7,7 +7,9 @@ Includes:
 > Example queries for reports like top bookings, event details, and service usage.
 
 How to use:
-Import the .sql file into MySQL Workbench/MariaDB → run the script → start querying :)
+> Import the .sql file into MySQL Workbench/MariaDB
+> Run the script
+> Start querying :)
 
 Extra Note:
 > I have uploaded; ERD Diagram(.png file), report(.pdf file), powerpoint presentation (.pptx file) in the same repository, just in case it may help out someone.
